@@ -20,5 +20,6 @@ class Dog
 #   @name
 # end
 
-
+attr_accessor :name, :breed
+end
 end
