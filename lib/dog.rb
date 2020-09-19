@@ -10,6 +10,5 @@ class Dog
   def breed
     @breed
   end
-  
-  class Dog
+
 end
