@@ -11,5 +11,5 @@ class Dog
     @breed
   end
   
-  
+  class Dog
 end
